@@ -7,6 +7,7 @@ public class Users {
 	public void usersTest()
 	{
 		System.out.println("user 1");
+		System.out.println("user 2");
 	}
 
 }
