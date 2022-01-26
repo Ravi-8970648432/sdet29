@@ -8,6 +8,8 @@ public class Users {
 	{
 		System.out.println("user 1");
 		System.out.println("user 2");
+		System.out.println("user 2 try to commit without pull");
+		
 	}
 
 }
