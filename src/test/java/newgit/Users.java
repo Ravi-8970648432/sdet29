@@ -13,6 +13,10 @@ public class Users {
 		System.out.println("user 1 third commit");
 		System.out.println("user 1 fourth commit");
 		
+		// today
+		
+		System.out.println("user 1 today  1st commit");
+		
 	}
 
 }
