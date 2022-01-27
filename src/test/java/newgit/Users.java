@@ -19,6 +19,7 @@ public class Users {
 		// today
 		
 		System.out.println("user 1 today  1st commit");
+		System.out.println("user 1 today  2nd commit");
 		
 	}
 
