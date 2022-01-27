@@ -12,6 +12,7 @@ public class Users {
 		System.out.println("user 2 try to commit without pull");
 		System.out.println("user 1 third commit");
 		System.out.println("user 1 fourth commit");
+		System.out.println("user 1 new branch commit");
 		
 	}
 
