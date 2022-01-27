@@ -20,6 +20,7 @@ public class Users {
 		
 		System.out.println("user 1 today  1st commit");
 		System.out.println("user 1 today  2nd commit");
+		System.out.println("user 2 today  1st commit");
 		
 	}
 
